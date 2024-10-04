@@ -1,5 +1,5 @@
 <h1 align="center">🏄‍♂️ Vahant Sharma</h1>
-<h3 align="center">I'm a tech enthusiast with a passion for DevOps,MERN & contributing in open source. When I’m not surfing the latest tech waves or crafting code, you’ll find me on the football field.</h3>
+<h3 align="center">I'm a tech enthusiast with a passion for MERN,DevOps & contributing in open source. When I’m not surfing the latest tech waves or crafting code, you’ll find me on the football field.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhvenMwd2NpMHlzd2F6NGR1YmVudm1tdTBrbWFtNDYya3NhcjBnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp">
 
@@ -7,11 +7,11 @@
 
 <br>
 
-- 🌱 I’m currently learning **Jenkins in Devops & refining my backend skills**
+- 🌱 I’m currently building some **MERN projects**  and  **Learning Devops**
 
 - 📝 I regularly write articles on [https://hashnode.com/@Vahant](https://hashnode.com/@Vahant)
 
-- 💬 Ask me about **Node,React,Express,MongoDB,git,Mysql etc.**
+- 💬 Ask me about **Node,React,Express,MongoDB,DockerGit,Mysql etc.**
 
 <hr>
 <br>
