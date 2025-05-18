@@ -17,9 +17,11 @@
 
 <br><hr>
 
-## Recent Activity
+## :zap: Recent Activity
+
 <!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
