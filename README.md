@@ -88,10 +88,10 @@ I write regular blog posts on [HashNode](https://hashnode.com/@Vahant)
 
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/sanjay-kv/sanjay-kv/pull/3) in [VahantSharma/VahantSharma](https://github.com/sanjay-kv/sanjay-kv)
-2. 💪 Opened PR [#3](https://github.com/sanjay-kv/sanjay-kv/pull/3) in [VahantSharma/VahantSharma](https://github.com/sanjay-kv/sanjay-kv)
-3. 🎉 Merged PR [#18](https://github.com/sanjay-kv/Stackoverflow-Analysis/pull/18) in [VahantSharma/CereBroAI](https://github.com/sanjay-kv/Stackoverflow-Analysis)
-4. 💪 Opened PR [#18](https://github.com/sanjay-kv/Stackoverflow-Analysis/pull/18) in [VahantSharma/CereBroAI](https://github.com/sanjay-kv/Stackoverflow-Analysis)
+1. 🔒 Closed issue [#1](https://github.com/karan-6969/eRRoRists/issues/1) in [karan-6969/eRRoRists](https://github.com/karan-6969/eRRoRists)
+2. 🎉 Merged PR [#2](https://github.com/karan-6969/eRRoRists/pull/2) in [karan-6969/eRRoRists](https://github.com/karan-6969/eRRoRists)
+3. 💪 Opened PR [#2](https://github.com/karan-6969/eRRoRists/pull/2) in [karan-6969/eRRoRists](https://github.com/karan-6969/eRRoRists)
+4. ❗ Opened issue [#1](https://github.com/karan-6969/eRRoRists/issues/1) in [karan-6969/eRRoRists](https://github.com/karan-6969/eRRoRists)
 
   <!--END_SECTION:activity-->
   </details> 
