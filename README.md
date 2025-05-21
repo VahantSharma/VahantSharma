@@ -1,41 +1,122 @@
-# 💫 About Me:
-<h1 align="center">🏄‍♂️ Vahant Sharma</h1><br><h3 align="center">I'm a tech enthusiast with a passion for MERN,DevOps & contributing in open source. When I’m not surfing the latest tech waves or crafting code, you’ll find me on the football field.</h3><br><br><img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhvenMwd2NpMHlzd2F6NGR1YmVudm1tdTBrbWFtNDYya3NhcjBnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp"><br><br>- 🌱 I’m currently building some MERN projects  and  Learning Devops<br><br>- 📝 I regularly write articles on [https://hashnode.com/@Vahant](https://hashnode.com/@Vahant)<br><br>- 💬 Ask me about **Node,React,Express,MongoDB,DockerGit,Mysql etc.**<br><br><hr><br><br><h3 align="left">🧰Languages and Tools:</h3><br><p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p><br><hr>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/vahant-sharma/">Vahant</a> </h1>
 
+<!--- Adding Header Elements -->
+<p align="center">
+  <a href="">Portfolio Website</a> -
+  <a href="https://www.linkedin.com/in/vahant-sharma/">LinkedIn</a> - 
+  <a href="https://x.com/VahantShar23441">Twitter</a> -
+  <a href="https://topmate.io/sanjaykv/">Contact me.</a> 
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+-----------------------------------------------------------
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+✨ DevOps Developer | Microsoft Learn Student Ambassdor |<br> Contributor @GSSoC Ext'24 <br><br>
+⚡ Check my ✨ [Website](https://recodehive.com/) <br>
+📫 How to reach me: [Schedule Call](https://topmate.io/sanjaykv) <br>
+💬 Ask me about Devops,AI and Deep Learning .<br>
+<!--- Adding Tech Stack open Section -->
 
-<br><hr>
+<br>
+<details>	
+ <summary><b>🛠 Tech Stack/ Certifications</b></summary><br>
+Languages & Databases: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
+<img alt="Static Badge" src="https://img.shields.io/badge/-TypeScript-%233179C7?style=flat&logo=TypeScript&logoColor=white&logoSize=auto">&nbsp;
+\<img alt="Static Badge" src="https://img.shields.io/badge/-MySQL-%231E5D8C?style=flat&logo=MySQL&logoColor=white&logoSize=auto">&nbsp;
+<img alt="Static Badge" src="https://img.shields.io/badge/-MongoDB-%235BA538?style=flat&logo=MongoDB&logoColor=white&logoSize=auto">
+&nbsp; 
+<img alt="Static Badge" src="https://img.shields.io/badge/-PostgreSQL-%236B86AE?style=flat&logo=PostgreSQL&logoColor=white&logoSize=auto">&nbsp; 
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=VahantSharma&theme=dark&hide_border=false)<br/>
+Frameworks and Libraries: <!--- Frameworks and Libraries goes here -->
+<img alt="Static Badge" src="https://img.shields.io/badge/-Next.js-%23000000?style=flat&logo=Next.js&logoColor=white">&nbsp;
+<img alt="Static Badge" src="https://img.shields.io/badge/-Node.js%2C%2C-%237BB369?style=flat&logo=Node.js&logoColor=white&logoSize=auto">
+<img alt="Static Badge" src="https://img.shields.io/badge/-Express-%231C3C3C?style=flat&logo=Express&logoColor=white&logoSize=auto">
+<img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat">&nbsp;&nbsp;
+<img alt="Static Badge" src="https://img.shields.io/badge/-LangChain%2C%2C-%231C3C3C?style=flat&logo=LangChain&logoColor=white&logoSize=auto">
+<img alt="Static Badge" src="https://img.shields.io/badge/-TensorFlow%2C-%23F3A738?style=flat&logo=TensorFlow&logoColor=white&logoSize=auto">
 
+Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
+<img src="https://img.shields.io/badge/-Cloudflare-4679A4?logo=Cloudflare&logoColor=orange&style=flat">&nbsp;<br>
+Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp;<br>
+
+## Certification Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<a href="https://badgr.com/public/assertions/4mL2m9QYQC-al832vETmGw?identity__email=sanjay.kanakkotviswanathan@students.mq.edu.au">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Postman%20White.png" width="100px" height="100px" />
+<a href="#">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/GitHub%20Foundation.png" width="100px" height="105px" />
+<a href="https://www.credly.com/badges/21b16046-9856-4432-b4e3-408f9a6e71bb/public_url">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/github-copilot.png" width="105px" height="105px" />
 </div>
+</details> 
+<br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VahantSharma&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<!--- 1st Section on Curated Articles -->
+<b>📝 Curated Articles</b>
+<br>
 
-<br><hr>
+I write regular blog posts on [HashNode](https://hashnode.com/@Vahant)
+<br>
+ Below are the few trending posts.👇<br>
+  📘 [GitHub Cheat sheet | Complete Tutorials.](https://recodehive.com/github-tutorials/)<br>
+  📒 [Create a report using Google Data Studio](https://recodehive.com/create-report-using-google-data-studio/)<br>
+  📙 [Develop Google Assistant App from Scratch](https://recodehive.com/how-to-create-app-for-google-assistant/)<br>
+➡️ [more blog posts...](https://recodehive.com/)
 
-## :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-</a>
-</div>
-
----
-[![](https://visitcount.itsvg.in/api?id=VahantSharma&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--- 2nd Section on GitHub Analytics -->
 
 
+  <summary><b>⚙️ GitHub Analytics</b></summary>
+<a href="https://github.com/VahantSharma">
+   <img height="155em" src="https://raw.githubusercontent.com/VahantSharma/github-profile-cards/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Vahant Sharma github stats" />
+    <img height="155em" src="https://raw.githubusercontent.com/VahantSharma/github-profile-cards/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Vahant Sharma github stats" />
+<br>
+<br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/
-vahant-sharma-645501287
-) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@VahantShar23441) 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!--- 3rd Section on Recent Projects -->
+
+<details>	
+    <summary><b>📚 Recent Projects/ Activity</b></summary><br>
+
+  ✨ [CereBroAI (Multimodal EEG+MRI Detection)](https://github.com/VahantSharma/CereBroAI)<br>
+  ✨ [TuxTimer (Comprehensive Work Management Tool for Linux).](https://github.com/VahantSharma/TuxTimer)<br>
+  ✨ [VMail - AI powered Email Client](https://github.com/VahantSharma/VMail)<br> 
+
+
+  <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/sanjay-kv/sanjay-kv/pull/3) in [VahantSharma/VahantSharma](https://github.com/sanjay-kv/sanjay-kv)
+2. 💪 Opened PR [#3](https://github.com/sanjay-kv/sanjay-kv/pull/3) in [VahantSharma/VahantSharma](https://github.com/sanjay-kv/sanjay-kv)
+3. 🎉 Merged PR [#18](https://github.com/sanjay-kv/Stackoverflow-Analysis/pull/18) in [VahantSharma/CereBroAI](https://github.com/sanjay-kv/Stackoverflow-Analysis)
+4. 💪 Opened PR [#18](https://github.com/sanjay-kv/Stackoverflow-Analysis/pull/18) in [VahantSharma/CereBroAI](https://github.com/sanjay-kv/Stackoverflow-Analysis)
+
+  <!--END_SECTION:activity-->
+  </details> 
+<br>
+
+
+
+
+<!--- Footer Stats - Adding the Social Media Status count-->
+ <p align="left">  
+<img src="https://komarev.com/ghpvc/?username=VahantSharma&color=green&style=flat&label=PROFILE+VIEWS&base=387" alt="Total profile views" />
+<a href="https://twitter.com/sanjay_kv_"><img src="https://img.shields.io/twitter/follow/sanjay_k_v?label=Follow%20Me&style=social"></a>
+<a href=""><img src="https://img.shields.io/twitch/status/VahantSharma?style=social"></a>
+<a href=""><img src="https://img.shields.io/github/stars/VahantSharma?label=Star%20Gazers&style=social"></a>
+<a href=""><img src="https://discord.com/api/guilds/1262681985885667348/widget.png?style=shield"></a>
+<a href=""><img src="https://img.shields.io/github/followers/VahantSharma?style=social"></a>
+
+</p>
+
+
+<!--
+<a href=""><img src="https://img.shields.io/github/followers/sanjay-kv?style=social"></a>
+-->
+<p align="center">
+Do you want to contact me for collaboration opportunities? ⟶ <a href="https://topmate.io/sanjaykv/232175/pay">Contact Details</a><br>
+<b> Show some ❤️ by starring some of the repositories!.</p> </div>
+<!--- Footer End -->
+<!--- Body End -->
