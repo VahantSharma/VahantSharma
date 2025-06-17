@@ -2,7 +2,7 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="https://vahantsharma.vercel.app/">Portfolio Website</a> -
+  <a href="https://github.com/VahantSharma/VahantSharma">Portfolio Website</a> -
   <a href="https://www.linkedin.com/in/vahant-sharma/">LinkedIn</a> - 
   <a href="https://x.com/VahantShar23441">Twitter</a> -
   <a href="https://topmate.io/sanjaykv/">Contact me.</a> 
@@ -11,7 +11,7 @@
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ DevOps Developer | Microsoft Learn Student Ambassdor |<br> Contributor @GSSoC Ext'24 <br><br>
-⚡ Check my ✨ [Website](https://vahantsharma.vercel.app/) <br>
+⚡ Check my ✨ [Website](https://github.com/VahantSharma/VahantSharma) <br>
 💬 Ask me about Devops,AI and Deep Learning .<br>
 <!--- Adding Tech Stack open Section -->
 
