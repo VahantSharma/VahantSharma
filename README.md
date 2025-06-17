@@ -2,7 +2,7 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="">Portfolio Website</a> -
+  <a href="https://vahantsharma.vercel.app/">Portfolio Website</a> -
   <a href="https://www.linkedin.com/in/vahant-sharma/">LinkedIn</a> - 
   <a href="https://x.com/VahantShar23441">Twitter</a> -
   <a href="https://topmate.io/sanjaykv/">Contact me.</a> 
@@ -11,8 +11,7 @@
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ DevOps Developer | Microsoft Learn Student Ambassdor |<br> Contributor @GSSoC Ext'24 <br><br>
-⚡ Check my ✨ [Website](https://recodehive.com/) <br>
-📫 How to reach me: [Schedule Call](https://topmate.io/sanjaykv) <br>
+⚡ Check my ✨ [Website](https://vahantsharma.vercel.app/) <br>
 💬 Ask me about Devops,AI and Deep Learning .<br>
 <!--- Adding Tech Stack open Section -->
 
@@ -61,10 +60,11 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 I write regular blog posts on [HashNode](https://hashnode.com/@Vahant)
 <br>
  Below are the few trending posts.👇<br>
+ 
+  📙 [Achieve JavaScript Mastery in 30 Days: Ultimate Guide](https://vahantbytes.hashnode.dev/achieve-javascript-mastery-in-30-days-ultimate-guide)<br>
   📘 [GitHub Cheat sheet | Complete Tutorials.](https://recodehive.com/github-tutorials/)<br>
   📒 [Create a report using Google Data Studio](https://recodehive.com/create-report-using-google-data-studio/)<br>
-  📙 [Develop Google Assistant App from Scratch](https://recodehive.com/how-to-create-app-for-google-assistant/)<br>
-➡️ [more blog posts...](https://recodehive.com/)
+➡️ [more blog posts...]("")
 
 <!--- 2nd Section on GitHub Analytics -->
 
