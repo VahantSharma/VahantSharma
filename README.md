@@ -88,10 +88,10 @@ I write regular blog posts on [HashNode](https://hashnode.com/@Vahant)
 
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/karan-6969/eRRoRists/issues/1) in [karan-6969/eRRoRists](https://github.com/karan-6969/eRRoRists)
-2. 🎉 Merged PR [#2](https://github.com/karan-6969/eRRoRists/pull/2) in [karan-6969/eRRoRists](https://github.com/karan-6969/eRRoRists)
-3. 💪 Opened PR [#2](https://github.com/karan-6969/eRRoRists/pull/2) in [karan-6969/eRRoRists](https://github.com/karan-6969/eRRoRists)
-4. ❗ Opened issue [#1](https://github.com/karan-6969/eRRoRists/issues/1) in [karan-6969/eRRoRists](https://github.com/karan-6969/eRRoRists)
+1. 💪 Opened PR [#591](https://github.com/opensource-society/notesvault/pull/591) in [opensource-society/notesvault](https://github.com/opensource-society/notesvault)
+2. 💪 Opened PR [#590](https://github.com/opensource-society/notesvault/pull/590) in [opensource-society/notesvault](https://github.com/opensource-society/notesvault)
+3. 💪 Opened PR [#589](https://github.com/opensource-society/notesvault/pull/589) in [opensource-society/notesvault](https://github.com/opensource-society/notesvault)
+4. 💪 Opened PR [#588](https://github.com/opensource-society/notesvault/pull/588) in [opensource-society/notesvault](https://github.com/opensource-society/notesvault)
 
   <!--END_SECTION:activity-->
   </details> 
