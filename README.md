@@ -88,10 +88,10 @@ I write regular blog posts on [HashNode](https://hashnode.com/@Vahant)
 
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#262](undefined) in [sayeeg-11/Pixel_Phantoms](https://github.com/sayeeg-11/Pixel_Phantoms)
-2. 💪 Opened PR [#261](undefined) in [sayeeg-11/Pixel_Phantoms](https://github.com/sayeeg-11/Pixel_Phantoms)
-3. 💪 Opened PR [#260](undefined) in [sayeeg-11/Pixel_Phantoms](https://github.com/sayeeg-11/Pixel_Phantoms)
-4. 🗣 Commented on [#3263](https://github.com/Agenta-AI/agenta/pull/3263#issuecomment-3689541022) in [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta)
+1. ❌ Merged PR [#260](undefined) in [sayeeg-11/Pixel_Phantoms](https://github.com/sayeeg-11/Pixel_Phantoms)
+2. 💪 Opened PR [#5628](undefined) in [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui)
+3. 💪 Opened PR [#262](undefined) in [sayeeg-11/Pixel_Phantoms](https://github.com/sayeeg-11/Pixel_Phantoms)
+4. 💪 Opened PR [#261](undefined) in [sayeeg-11/Pixel_Phantoms](https://github.com/sayeeg-11/Pixel_Phantoms)
 
   <!--END_SECTION:activity-->
   </details> 
