@@ -88,10 +88,10 @@ I write regular blog posts on [HashNode](https://hashnode.com/@Vahant)
 
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5640](https://github.com/yamada-ui/yamada-ui/pull/5640#issuecomment-3693748517) in [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui)
-2. 💪 Opened PR [#5640](undefined) in [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui)
-3. 🗣 Commented on [#5635](https://github.com/yamada-ui/yamada-ui/pull/5635#issuecomment-3692754916) in [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui)
-4. ❌ Merged PR [#261](undefined) in [sayeeg-11/Pixel_Phantoms](https://github.com/sayeeg-11/Pixel_Phantoms)
+1. 🗣 Commented on [#5635](https://github.com/yamada-ui/yamada-ui/pull/5635#issuecomment-3693872685) in [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui)
+2. 🗣 Commented on [#5640](https://github.com/yamada-ui/yamada-ui/pull/5640#issuecomment-3693748517) in [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui)
+3. 💪 Opened PR [#5640](undefined) in [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui)
+4. 🗣 Commented on [#5635](https://github.com/yamada-ui/yamada-ui/pull/5635#issuecomment-3692754916) in [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui)
 
   <!--END_SECTION:activity-->
   </details> 
