@@ -88,10 +88,10 @@ I write regular blog posts on [HashNode](https://hashnode.com/@Vahant)
 
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3642](https://github.com/camel-ai/camel/pull/3642#issuecomment-3694719559) in [camel-ai/camel](https://github.com/camel-ai/camel)
-2. 💪 Opened PR [#3642](undefined) in [camel-ai/camel](https://github.com/camel-ai/camel)
-3. ❌ Closed PR [#5640](undefined) in [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui)
-4. 🗣 Commented on [#5640](https://github.com/yamada-ui/yamada-ui/pull/5640#issuecomment-3693994411) in [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui)
+1. 💪 Opened PR [#6102](undefined) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+2. 🗣 Commented on [#3642](https://github.com/camel-ai/camel/pull/3642#issuecomment-3694719559) in [camel-ai/camel](https://github.com/camel-ai/camel)
+3. 💪 Opened PR [#3642](undefined) in [camel-ai/camel](https://github.com/camel-ai/camel)
+4. ❌ Closed PR [#5640](undefined) in [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui)
 
   <!--END_SECTION:activity-->
   </details> 
