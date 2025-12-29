@@ -88,10 +88,10 @@ I write regular blog posts on [HashNode](https://hashnode.com/@Vahant)
 
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6103](undefined) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-2. 💪 Opened PR [#6102](undefined) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-3. 🗣 Commented on [#3642](https://github.com/camel-ai/camel/pull/3642#issuecomment-3694719559) in [camel-ai/camel](https://github.com/camel-ai/camel)
-4. 💪 Opened PR [#3642](undefined) in [camel-ai/camel](https://github.com/camel-ai/camel)
+1. 🗣 Commented on [#6052](https://github.com/ghostfolio/ghostfolio/issues/6052#issuecomment-3695809869) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+2. 💪 Opened PR [#6103](undefined) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+3. 💪 Opened PR [#6102](undefined) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+4. 🗣 Commented on [#3642](https://github.com/camel-ai/camel/pull/3642#issuecomment-3694719559) in [camel-ai/camel](https://github.com/camel-ai/camel)
 
   <!--END_SECTION:activity-->
   </details> 
