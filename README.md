@@ -88,10 +88,10 @@ I write regular blog posts on [HashNode](https://hashnode.com/@Vahant)
 
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3340](https://github.com/Agenta-AI/agenta/pull/3340#issuecomment-3703123497) in [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta)
-2. 💪 Opened PR [#3340](https://github.com/Agenta-AI/agenta/pull/3340) in [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta)
-3. ❌ Closed PR [#3263](https://github.com/Agenta-AI/agenta/pull/3263) in [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta)
-4. 🎉 Merged PR [#6103](https://github.com/ghostfolio/ghostfolio/pull/6103) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+1. 💪 Opened PR [#2752](https://github.com/openfrontio/OpenFrontIO/pull/2752) in [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO)
+2. 🗣 Commented on [#3340](https://github.com/Agenta-AI/agenta/pull/3340#issuecomment-3703123497) in [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta)
+3. 💪 Opened PR [#3340](https://github.com/Agenta-AI/agenta/pull/3340) in [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta)
+4. ❌ Closed PR [#3263](https://github.com/Agenta-AI/agenta/pull/3263) in [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta)
 
   <!--END_SECTION:activity-->
   </details> 
