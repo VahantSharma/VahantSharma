@@ -88,10 +88,10 @@ I write regular blog posts on [HashNode](https://hashnode.com/@Vahant)
 
 
   <!--START_SECTION:activity-->
-1. ❌ Merged PR [#6103](undefined) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-2. 🗣 Commented on [#6103](https://github.com/ghostfolio/ghostfolio/pull/6103#issuecomment-3696774629) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-3. 🗣 Commented on [#6052](https://github.com/ghostfolio/ghostfolio/issues/6052#issuecomment-3695809869) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-4. 💪 Opened PR [#6103](undefined) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+1. 🗣 Commented on [#3340](https://github.com/Agenta-AI/agenta/pull/3340#issuecomment-3703123497) in [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta)
+2. 💪 Opened PR [#3340](undefined) in [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta)
+3. ❌ Closed PR [#3263](undefined) in [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta)
+4. ❌ Merged PR [#6103](undefined) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
 
   <!--END_SECTION:activity-->
   </details> 
