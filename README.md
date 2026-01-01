@@ -88,10 +88,10 @@ I write regular blog posts on [HashNode](https://hashnode.com/@Vahant)
 
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2752](https://github.com/openfrontio/OpenFrontIO/pull/2752#issuecomment-3703933007) in [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO)
-2. 💪 Opened PR [#2752](https://github.com/openfrontio/OpenFrontIO/pull/2752) in [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO)
-3. 🗣 Commented on [#3340](https://github.com/Agenta-AI/agenta/pull/3340#issuecomment-3703123497) in [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta)
-4. 💪 Opened PR [#3340](https://github.com/Agenta-AI/agenta/pull/3340) in [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta)
+1. 🎉 Merged PR [#2752](https://github.com/openfrontio/OpenFrontIO/pull/2752) in [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO)
+2. 🗣 Commented on [#2752](https://github.com/openfrontio/OpenFrontIO/pull/2752#issuecomment-3703975268) in [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO)
+3. 🗣 Commented on [#2752](https://github.com/openfrontio/OpenFrontIO/pull/2752#issuecomment-3703933007) in [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO)
+4. 💪 Opened PR [#2752](https://github.com/openfrontio/OpenFrontIO/pull/2752) in [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO)
 
   <!--END_SECTION:activity-->
   </details> 
