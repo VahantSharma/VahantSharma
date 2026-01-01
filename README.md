@@ -88,10 +88,10 @@ I write regular blog posts on [HashNode](https://hashnode.com/@Vahant)
 
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2761](https://github.com/openfrontio/OpenFrontIO/pull/2761#issuecomment-3704154490) in [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO)
-2. 🗣 Commented on [#2758](https://github.com/openfrontio/OpenFrontIO/issues/2758#issuecomment-3704041647) in [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO)
-3. 💪 Opened PR [#2761](https://github.com/openfrontio/OpenFrontIO/pull/2761) in [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO)
-4. 🎉 Merged PR [#2752](https://github.com/openfrontio/OpenFrontIO/pull/2752) in [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO)
+1. 🗣 Commented on [#3642](https://github.com/camel-ai/camel/pull/3642#issuecomment-3704181930) in [camel-ai/camel](https://github.com/camel-ai/camel)
+2. 🗣 Commented on [#2761](https://github.com/openfrontio/OpenFrontIO/pull/2761#issuecomment-3704154490) in [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO)
+3. 🗣 Commented on [#2758](https://github.com/openfrontio/OpenFrontIO/issues/2758#issuecomment-3704041647) in [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO)
+4. 💪 Opened PR [#2761](https://github.com/openfrontio/OpenFrontIO/pull/2761) in [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO)
 
   <!--END_SECTION:activity-->
   </details> 
