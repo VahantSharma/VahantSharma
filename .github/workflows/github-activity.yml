@@ -1,0 +1,31 @@
+name: Update GitHub Activity
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"  # every 3 hours
+  workflow_dispatch:
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update GitHub Activity
+        uses: rahuldkjain/github-profile-readme-generator@v1.1.0
+        with:
+          username: VahantSharma
+          token: ${{ secrets.SUMMARY_CARD_TOKEN }}
+          section: activity
+          max-activities: 4  # show last 4 activities
+          commit-message: "Update GitHub Activity"
+
+      - name: Commit & Push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update GitHub Activity"
+          git push
