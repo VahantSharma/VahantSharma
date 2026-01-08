@@ -2,7 +2,7 @@ name: Update GitHub Activity
 
 on:
   schedule:
-    - cron: "0 */3 * * *" # every 3 hours
+    - cron: "0 */3 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,19 +13,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Update GitHub Activity
-        uses: rahuldkjain/github-profile-readme-generator@2.0.0
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          username: VahantSharma
-          token: ${{ secrets.SUMMARY_CARD_TOKEN }}
-          section: activity
-          max-activities: 4  # show last 4 activities
-          commit-message: "Update GitHub Activity"
+          node-version: 20
 
-      - name: Commit & Push changes
+      - name: Install GitHub Readme Generator
+        run: npm install -g github-profile-readme-generator
+
+      - name: Update GitHub Activity
         run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "Update GitHub Activity"
-          git push
+          github-profile-readme-generator \
+            --username VahantSharma \
+            --token ${{ secrets.SUMMARY_CARD_TOKEN }} \
+            --section activity \
+            --max-activities 4 \
+            --commit-message "Update GitHub Activity"
