@@ -1,122 +1,99 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/vahant-sharma/">Vahant</a> </h1>
+<h1 align="center">Hello, I'm Vahant Sharma</h1>
 
-<!--- Adding Header Elements -->
+<!--- Header Links -->
 <p align="center">
-  <a href="https://github.com/VahantSharma/VahantSharma">Portfolio Website</a> -
-  <a href="https://www.linkedin.com/in/vahant-sharma/">LinkedIn</a> - 
-  <a href="https://x.com/VahantShar23441">Twitter</a> -
-  <a href="https://topmate.io/sanjaykv/">Contact me.</a> 
+  <a href="https://www.linkedin.com/in/vahant-sharma/">LinkedIn</a> •
+  <a href="https://vahantsharma.vercel.app/">Portfolio</a> •
+  <a href="https://leetcode.com/u/Vahant_Sharma/">LeetCode</a> •
+  <a href="https://vahantbytes.hashnode.dev/">Blog</a>
 </p>
 
------------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ DevOps Developer | Microsoft Learn Student Ambassdor |<br> Contributor @GSSoC Ext'24 <br><br>
-⚡ Check my ✨ [Website](https://github.com/VahantSharma/VahantSharma) <br>
-💬 Ask me about Devops,AI and Deep Learning .<br>
-<!--- Adding Tech Stack open Section -->
+---
 
-<br>
-<details>	
- <summary><b>🛠 Tech Stack/ Certifications</b></summary><br>
-Languages & Databases: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
-<img alt="Static Badge" src="https://img.shields.io/badge/-TypeScript-%233179C7?style=flat&logo=TypeScript&logoColor=white&logoSize=auto">&nbsp;
-\<img alt="Static Badge" src="https://img.shields.io/badge/-MySQL-%231E5D8C?style=flat&logo=MySQL&logoColor=white&logoSize=auto">&nbsp;
-<img alt="Static Badge" src="https://img.shields.io/badge/-MongoDB-%235BA538?style=flat&logo=MongoDB&logoColor=white&logoSize=auto">
-&nbsp; 
-<img alt="Static Badge" src="https://img.shields.io/badge/-PostgreSQL-%236B86AE?style=flat&logo=PostgreSQL&logoColor=white&logoSize=auto">&nbsp; 
+## 👨🏻‍💻 About Me
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350px" align="right"/>
 
-Frameworks and Libraries: <!--- Frameworks and Libraries goes here -->
-<img alt="Static Badge" src="https://img.shields.io/badge/-Next.js-%23000000?style=flat&logo=Next.js&logoColor=white">&nbsp;
-<img alt="Static Badge" src="https://img.shields.io/badge/-Node.js%2C%2C-%237BB369?style=flat&logo=Node.js&logoColor=white&logoSize=auto">
-<img alt="Static Badge" src="https://img.shields.io/badge/-Express-%231C3C3C?style=flat&logo=Express&logoColor=white&logoSize=auto">
-<img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat">&nbsp;&nbsp;
-<img alt="Static Badge" src="https://img.shields.io/badge/-LangChain%2C%2C-%231C3C3C?style=flat&logo=LangChain&logoColor=white&logoSize=auto">
-<img alt="Static Badge" src="https://img.shields.io/badge/-TensorFlow%2C-%23F3A738?style=flat&logo=TensorFlow&logoColor=white&logoSize=auto">
+🚀 **DevOps Engineer operating in Limitless-mode**  
+🌍 Microsoft Learn Student Ambassador  
+🏆 Open Source Contributor @ **GSSoC Extended 2024**
 
-Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
-<img src="https://img.shields.io/badge/-Cloudflare-4679A4?logo=Cloudflare&logoColor=orange&style=flat">&nbsp;<br>
-Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp;<br>
+<br/>
 
-## Certification Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<a href="https://badgr.com/public/assertions/4mL2m9QYQC-al832vETmGw?identity__email=sanjay.kanakkotviswanathan@students.mq.edu.au">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Postman%20White.png" width="100px" height="100px" />
-<a href="#">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/GitHub%20Foundation.png" width="100px" height="105px" />
-<a href="https://www.credly.com/badges/21b16046-9856-4432-b4e3-408f9a6e71bb/public_url">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/github-copilot.png" width="105px" height="105px" />
-</div>
-</details> 
-<br>
+I enjoy building, breaking, and scaling systems — from **Linux internals and CI/CD pipelines**  
+to **cloud-ready DevOps workflows**.
 
-<!--- 1st Section on Curated Articles -->
-<b>📝 Curated Articles</b>
-<br>
+<br/>
 
-I write regular blog posts on [HashNode](https://hashnode.com/@Vahant)
-<br>
- Below are the few trending posts.👇<br>
- 
-  📙 [Achieve JavaScript Mastery in 30 Days: Ultimate Guide](https://vahantbytes.hashnode.dev/achieve-javascript-mastery-in-30-days-ultimate-guide)<br>
-  📘 [GitHub Cheat sheet | Complete Tutorials.](https://recodehive.com/github-tutorials/)<br>
-  📒 [Create a report using Google Data Studio](https://recodehive.com/create-report-using-google-data-studio/)<br>
-➡️ [more blog posts...]("")
+Always curious about **AI-powered systems**, **backend infrastructure**,  
+and **automation at scale**.
 
-<!--- 2nd Section on GitHub Analytics -->
+<br/>
 
+💬 Ask me about **DevOps, Linux, Docker, CI/CD, AI systems, or Open Source**
 
-  <summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/VahantSharma">
-   <img height="155em" src="https://raw.githubusercontent.com/VahantSharma/github-profile-cards/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Vahant Sharma github stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/VahantSharma/github-profile-cards/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Vahant Sharma github stats" />
-<br>
-<br>
+---
 
+## 🛠 Tech Stack / Certifications
 
-<!--- 3rd Section on Recent Projects -->
+### 💻 Languages & Databases
+<img src="https://img.shields.io/badge/Python-437CAC?style=flat&logo=python&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C7?style=flat&logo=typescript&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/MySQL-1E5D8C?style=flat&logo=mysql&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-6B86AE?style=flat&logo=postgresql&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-5BA538?style=flat&logo=mongodb&logoColor=white"/>
 
-<details>	
-    <summary><b>📚 Recent Projects/ Activity</b></summary><br>
+### ⚙️ Frameworks & Libraries
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Node.js-7BB369?style=flat&logo=node.js&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Express.js-1C3C3C?style=flat&logo=express&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/NumPy-0E7ACE?style=flat&logo=numpy&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150455?style=flat&logo=pandas&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
 
-  ✨ [CereBroAI (Multimodal EEG+MRI Detection)](https://github.com/VahantSharma/CereBroAI)<br>
-  ✨ [TuxTimer (Comprehensive Work Management Tool for Linux).](https://github.com/VahantSharma/TuxTimer)<br>
-  ✨ [VMail - AI powered Email Client](https://github.com/VahantSharma/VMail)<br> 
+### 🧰 Tools & Platforms
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Linux-EDBD2B?style=flat&logo=linux&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white"/>
 
+### 🖥 Operating Systems
+<img src="https://img.shields.io/badge/Linux-EDBD2B?style=flat&logo=linux&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Windows-0F7BCF?style=flat&logo=windows&logoColor=white"/>
 
-  <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3642](https://github.com/camel-ai/camel/pull/3642) in [camel-ai/camel](https://github.com/camel-ai/camel)
-2. 🗣 Commented on [#5637](https://github.com/yamada-ui/yamada-ui/pull/5637#issuecomment-3705131302) in [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui)
-3. 🎉 Merged PR [#2761](https://github.com/openfrontio/OpenFrontIO/pull/2761) in [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO)
-4. 🗣 Commented on [#3642](https://github.com/camel-ai/camel/pull/3642#issuecomment-3704181930) in [camel-ai/camel](https://github.com/camel-ai/camel)
+---
 
-  <!--END_SECTION:activity-->
-  </details> 
-<br>
-
-
-
-
-<!--- Footer Stats - Adding the Social Media Status count-->
- <p align="left">  
-<img src="https://komarev.com/ghpvc/?username=VahantSharma&color=green&style=flat&label=PROFILE+VIEWS&base=387" alt="Total profile views" />
-<a href="https://twitter.com/sanjay_kv_"><img src="https://img.shields.io/twitter/follow/sanjay_k_v?label=Follow%20Me&style=social"></a>
-<a href=""><img src="https://img.shields.io/twitch/status/VahantSharma?style=social"></a>
-<a href=""><img src="https://img.shields.io/github/stars/VahantSharma?label=Star%20Gazers&style=social"></a>
-<a href=""><img src="https://discord.com/api/guilds/1262681985885667348/widget.png?style=shield"></a>
-<a href=""><img src="https://img.shields.io/github/followers/VahantSharma?style=social"></a>
-
+## ⚙️ GitHub Analytics
+<p align="center">
+  <img height="155em" src="https://raw.githubusercontent.com/VahantSharma/github-profile-cards/master/profile-summary-card-output/github_dark/0-profile-details.svg"/>
+  <img height="155em" src="https://raw.githubusercontent.com/VahantSharma/github-profile-cards/master/profile-summary-card-output/github_dark/3-stats.svg"/>
 </p>
 
+---
+## 🌍 Open Source Contributions
 
-<!--
-<a href=""><img src="https://img.shields.io/github/followers/sanjay-kv?style=social"></a>
--->
-<p align="center">
-Do you want to contact me for collaboration opportunities? ⟶ <a href="https://topmate.io/sanjaykv/232175/pay">Contact Details</a><br>
-<b> Show some ❤️ by starring some of the repositories!.</p> </div>
-<!--- Footer End -->
-<!--- Body End -->
+Here’s a snapshot of my recent open-source activity and community contributions:
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 📚 Recent Projects & Activity
+
+- [CereBroAI – Multimodal EEG + MRI Detection](https://github.com/VahantSharma/CereBroAI)
+- [TuxTimer – Work Management Tool for Linux](https://github.com/VahantSharma/TuxTimer)
+- [VMail – AI-powered Email Client](https://github.com/VahantSharma/VMail)
+
+---
+
+## 📝 Curated Articles
+
+I write regular blog posts on **Hashnode**.
+
+- [Achieve JavaScript Mastery in 30 Days](https://vahantbytes.hashnode.dev/achieve-javascript-mastery-in-30-days-ultimate-guide)
+
+More posts: https://vahantbytes.hashnode.dev/
+
+---
