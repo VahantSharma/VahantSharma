@@ -1,0 +1,57 @@
+name: Update GitHub Activity
+
+on:
+  schedule:
+    - cron: "0 */3 * * *" # every 3 hours
+  workflow_dispatch:
+
+jobs:
+  refresh-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch latest GitHub activity
+        id: fetch
+        run: |
+          curl -s "https://api.github.com/users/VahantSharma/events/public" > events.json
+          python3 - << 'EOF'
+import json
+import re
+from pathlib import Path
+
+data = json.load(open("events.json"))
+
+lines = []
+count = 0
+for event in data:
+    if count >= 4:
+        break
+    type = event.get("type", "")
+    repo = event.get("repo", {}).get("name", "")
+    url = event.get("repo", {}).get("url", "").replace("api.github.com/repos/", "github.com/")
+    if repo and url:
+        # Simplify event name
+        name = re.sub(r"Event$", "", type)
+        lines.append(f"- **{name}** ➜ [{repo}](https://{url})")
+        count += 1
+
+output = "\n".join(lines)
+print(f"::set-output name=activity::{output}")
+EOF
+
+      - name: Update README
+        uses: peter-evans/update-readme@v2
+        with:
+          section: activity
+          insert-after: "<!--START_SECTION:activity-->"
+          content: "${{ steps.fetch.outputs.activity }}"
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update GitHub Activity"
+          git push
