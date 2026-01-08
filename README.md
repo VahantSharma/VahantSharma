@@ -13,9 +13,9 @@
 ## 👨🏻‍💻 About Me
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350px" align="right"/>
 
-🚀 **DevOps Engineer operating in Limitless-mode**  
+🚀 Backend & Devops Engineer|Open Source Contributor|Part-time Traveller 🏔️   
 🌍 Microsoft Learn Student Ambassador  
-🏆 Open Source Contributor @ **GSSoC Extended 2024**
+🏆 Contributor @ **GSSoC Extended 2024**
 
 <br/>
 
@@ -44,6 +44,7 @@ and **automation at scale**.
 
 ### ⚙️ Frameworks & Libraries
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Node.js-7BB369?style=flat&logo=node.js&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Express.js-1C3C3C?style=flat&logo=express&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/NumPy-0E7ACE?style=flat&logo=numpy&logoColor=white"/>&nbsp;
