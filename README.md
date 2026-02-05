@@ -77,11 +77,11 @@ and **automation at scale**.
 Here’s a snapshot of my recent open-source activity and community contributions:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25927](https://github.com/immich-app/immich/pull/25927#issuecomment-3855461572) in [immich-app/immich](https://github.com/immich-app/immich)
-2. 💪 Opened PR [#25928](https://github.com/immich-app/immich/pull/25928) in [immich-app/immich](https://github.com/immich-app/immich)
-3. 💪 Opened PR [#25927](https://github.com/immich-app/immich/pull/25927) in [immich-app/immich](https://github.com/immich-app/immich)
-4. 🗣 Commented on [#25909](https://github.com/immich-app/immich/issues/25909#issuecomment-3852075005) in [immich-app/immich](https://github.com/immich-app/immich)
-5. 🗣 Commented on [#2761](https://github.com/openfrontio/OpenFrontIO/pull/2761#issuecomment-3704154490) in [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO)
+1. 🎉 Merged PR [#25927](https://github.com/immich-app/immich/pull/25927) in [immich-app/immich](https://github.com/immich-app/immich)
+2. 🗣 Commented on [#25928](https://github.com/immich-app/immich/pull/25928#issuecomment-3855473413) in [immich-app/immich](https://github.com/immich-app/immich)
+3. 🗣 Commented on [#25927](https://github.com/immich-app/immich/pull/25927#issuecomment-3855461572) in [immich-app/immich](https://github.com/immich-app/immich)
+4. 💪 Opened PR [#25928](https://github.com/immich-app/immich/pull/25928) in [immich-app/immich](https://github.com/immich-app/immich)
+5. 💪 Opened PR [#25927](https://github.com/immich-app/immich/pull/25927) in [immich-app/immich](https://github.com/immich-app/immich)
 <!--END_SECTION:activity-->
 
 ---
