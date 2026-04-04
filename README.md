@@ -77,8 +77,8 @@ and **automation at scale**.
 Here’s a snapshot of my recent open-source activity and community contributions:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5637](https://github.com/yamada-ui/yamada-ui/pull/5637) in [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui)
-2. 🎉 Merged PR [#25928](https://github.com/immich-app/immich/pull/25928) in [immich-app/immich](https://github.com/immich-app/immich)
+1. 💪 Opened PR [#1](https://github.com/VahantSharma/golf-charity-platform/pull/1) in [VahantSharma/golf-charity-platform](https://github.com/VahantSharma/golf-charity-platform)
+2. 🎉 Merged PR [#5637](https://github.com/yamada-ui/yamada-ui/pull/5637) in [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui)
 3. 🎉 Merged PR [#25927](https://github.com/immich-app/immich/pull/25927) in [immich-app/immich](https://github.com/immich-app/immich)
 4. 🗣 Commented on [#25928](https://github.com/immich-app/immich/pull/25928#issuecomment-3855473413) in [immich-app/immich](https://github.com/immich-app/immich)
 5. 🗣 Commented on [#25927](https://github.com/immich-app/immich/pull/25927#issuecomment-3855461572) in [immich-app/immich](https://github.com/immich-app/immich)
