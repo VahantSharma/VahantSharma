@@ -77,11 +77,11 @@ and **automation at scale**.
 Here’s a snapshot of my recent open-source activity and community contributions:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/VahantSharma/golf-charity-platform/pull/3) in [VahantSharma/golf-charity-platform](https://github.com/VahantSharma/golf-charity-platform)
-2. 🎉 Merged PR [#2](https://github.com/VahantSharma/golf-charity-platform/pull/2) in [VahantSharma/golf-charity-platform](https://github.com/VahantSharma/golf-charity-platform)
-3. 💪 Opened PR [#2](https://github.com/VahantSharma/golf-charity-platform/pull/2) in [VahantSharma/golf-charity-platform](https://github.com/VahantSharma/golf-charity-platform)
-4. 💪 Opened PR [#1](https://github.com/VahantSharma/golf-charity-platform/pull/1) in [VahantSharma/golf-charity-platform](https://github.com/VahantSharma/golf-charity-platform)
-5. 🎉 Merged PR [#5637](https://github.com/yamada-ui/yamada-ui/pull/5637) in [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui)
+1. 🎉 Merged PR [#1](https://github.com/VahantSharma/golf-charity-platform/pull/1) in [VahantSharma/golf-charity-platform](https://github.com/VahantSharma/golf-charity-platform)
+2. 🎉 Merged PR [#3](https://github.com/VahantSharma/golf-charity-platform/pull/3) in [VahantSharma/golf-charity-platform](https://github.com/VahantSharma/golf-charity-platform)
+3. 💪 Opened PR [#3](https://github.com/VahantSharma/golf-charity-platform/pull/3) in [VahantSharma/golf-charity-platform](https://github.com/VahantSharma/golf-charity-platform)
+4. 🎉 Merged PR [#2](https://github.com/VahantSharma/golf-charity-platform/pull/2) in [VahantSharma/golf-charity-platform](https://github.com/VahantSharma/golf-charity-platform)
+5. 💪 Opened PR [#2](https://github.com/VahantSharma/golf-charity-platform/pull/2) in [VahantSharma/golf-charity-platform](https://github.com/VahantSharma/golf-charity-platform)
 <!--END_SECTION:activity-->
 
 ---
