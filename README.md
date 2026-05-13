@@ -3,7 +3,6 @@
 <!--- Header Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/vahant-sharma/">LinkedIn</a> •
-  <a href="https://vahantsharma.vercel.app/">Portfolio</a> •
   <a href="https://leetcode.com/u/Vahant_Sharma/">LeetCode</a> •
   <a href="https://vahantbytes.hashnode.dev/">Blog</a>
 </p>
